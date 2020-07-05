@@ -1,4 +1,4 @@
-# app_escola
+# app_transferências
 
 A new Flutter project.
 
